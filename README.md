@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hey, I'm Bayu Syahputra
 
-<!--
-**BayuSyahputraaa/BayuSyahputraaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Web Developer in Progress
 
-Here are some ideas to get you started:
+> Building, learning, and turning ideas into digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a student who is passionate about technology and software development.
+
+- 💻 Learning Web Development
+- 🌐 Building websites and web applications
+- 🧠 Exploring programming & software development
+- 🚀 Always learning something new
+- 🎯 Future goal: Become a professional Web Developer
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+JavaScript        ███████░░░  70%
+Python            ██████░░░░  60%
+Web Development   ███████░░░  70%
+Backend           ████░░░░░░  40%
+AI / ML           ██░░░░░░░░  20%
