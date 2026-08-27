@@ -17,14 +17,16 @@
 
 ## About Me
 
-```javascript
-const bayu = {
-    role: "Web Developer",
-    focus: ["Web Development", "Programming"],
-    learning: ["JavaScript", "Python", "PHP", "MySQL"],
-    tools: ["VS Code", "Git", "GitHub"],
-    goal: "Build useful and creative digital products"
-};
+```text
+> WHOAMI
+
+Name       : Bayu Syahputra
+Role       : Web Developer
+Focus      : Web Development & Programming
+Learning   : JavaScript, Python, PHP, MySQL
+Tools      : VS Code, Git, GitHub
+Goal       : Build useful and creative digital products
+Status     : Always Learning
 ```
 
 ## Tech Stack
