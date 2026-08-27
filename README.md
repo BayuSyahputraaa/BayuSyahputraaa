@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=BAYU%20SYAHPUTRA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Programmer%20%7C%20Creative%20Builder&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=BAYU%20SYAHPUTRA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Creative%20Coder&descSize=18&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Bayu+Syahputra+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Building+Websites+%26+Digital+Projects+%F0%9F%9A%80;Learning+JavaScript%2C+PHP%2C+Python+%26+More;Turning+Ideas+Into+Web+Experiences+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Bayu+Syahputra+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Building+Modern+Websites+%F0%9F%8C%90;Learning+JavaScript+%26+PHP+%E2%9A%A1;Turning+Ideas+Into+Projects+%F0%9F%9A%80"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👋 Hello, I'm Bayu!
+# 👋 Hey, I'm Bayu
 
 ```javascript
 const bayu = {
@@ -22,7 +22,7 @@ const bayu = {
     role: "Web Developer",
     country: "Indonesia 🇮🇩",
 
-    skills: [
+    learning: [
         "HTML",
         "CSS",
         "JavaScript",
@@ -33,7 +33,7 @@ const bayu = {
         "Three.js"
     ],
 
-    interests: [
+    interestedIn: [
         "Web Development",
         "UI/UX",
         "Creative Coding",
@@ -41,30 +41,27 @@ const bayu = {
         "Cyber Security"
     ],
 
-    currentlyBuilding: "Web Projects 🚀",
-    goal: "Turn ideas into useful digital products."
+    mindset: "Learn → Build → Improve 🚀"
 };
-
-console.log("Welcome to my GitHub! 🚀");
 ```
+
+I'm a student and aspiring **Web Developer** who enjoys creating websites, experimenting with programming, and turning ideas into real projects.
+
+My current focus is building a strong foundation in web development while exploring other technologies such as **Python, Flutter, Three.js, AI, and Cyber Security**.
 
 ---
 
-## 🧠 About Me
+# 🧠 Currently Learning
 
-I'm a student and aspiring **Web Developer** who enjoys creating websites, experimenting with technologies, and turning ideas into real projects.
+<div align="center">
 
-Currently, I'm focusing on improving my skills in:
+|   🌐 Web   | 🗄️ Backend | 📱 Mobile | 🤖 Exploration |
+| :--------: | :---------: | :-------: | :------------: |
+|    HTML    |     PHP     |  Flutter  |       AI       |
+|     CSS    |    MySQL    |    Dart   |    Three.js    |
+| JavaScript |   Database  |  Android  | Cyber Security |
 
-* 🌐 Front-End Web Development
-* ⚙️ Back-End Development
-* 🗄️ Database Development
-* 🎨 UI/UX & Modern Web Design
-* 📱 Mobile Development
-* 🤖 AI & Creative Coding
-* 🔐 Basic Cyber Security
-
-> 💡 **Learn → Build → Debug → Improve → Repeat**
+</div>
 
 ---
 
@@ -72,26 +69,26 @@ Currently, I'm focusing on improving my skills in:
 
 ### 🌐 Web Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,threejs"/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql"/>
 </p>
 
 ### 🐍 Programming
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python,cs,dart"/>
 </p>
 
-### 📱 Mobile Development
+### 🎨 UI & Creative Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio"/>
+<p>
+<img src="https://skillicons.dev/icons?i=threejs,figma,bootstrap,tailwind"/>
 </p>
 
 ### 🛠️ Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,figma,vercel"/>
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,vercel"/>
 </p>
 
 ---
@@ -99,63 +96,62 @@ Currently, I'm focusing on improving my skills in:
 # 🚀 What I Build
 
 ```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   🌐 Modern Websites                         │
-│   🎨 Creative UI                             │
-│   ⚡ Interactive Web Experiences             │
-│   🗄️ Database Applications                   │
-│   📱 Mobile Applications                     │
-│   🤖 AI Experiments                          │
-│   🎮 Small Interactive Games                 │
-│   🔐 Security & Programming Experiments      │
-│                                              │
-╰──────────────────────────────────────────────╯
+┌─────────────────────────────────────────────┐
+│                                             │
+│   🌐 Modern Websites                        │
+│   🎨 Interactive Interfaces                 │
+│   ⚡ Landing Pages                          │
+│   🗄️ Database Applications                  │
+│   📱 Mobile Applications                    │
+│   🎮 Small Games & Experiments              │
+│   🤖 AI Experiments                         │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
 
 ---
 
 # ⭐ Featured Projects
 
-### 🌐 Personal Portfolio
+### 🌐 Portfolio Website
 
-A modern developer portfolio to showcase my skills, projects, and experience.
+A personal portfolio website for showcasing my skills, projects and development journey.
 
-**Tech:** HTML • CSS • JavaScript
+**Stack:** HTML • CSS • JavaScript
 
 ---
 
-### 🏫 School Digital Projects
+### 🏫 School Web Projects
 
-Web-based projects created for school assignments and digital solutions.
+Various websites and applications created for school projects and learning purposes.
 
-**Tech:** HTML • CSS • JavaScript • PHP • MySQL
+**Stack:** HTML • CSS • JavaScript • PHP • MySQL
 
 ---
 
 ### 🎮 Chill Club
 
-A Roblox social game concept focused on creating a relaxed virtual environment where players can hang out and chat.
+A Roblox social game concept designed around a relaxed virtual environment for players to hang out and chat.
 
-**Tech:** Roblox Studio • Lua
-
----
-
-### 🤖 AI Experiments
-
-Experiments with Python, AI concepts, automation, and interactive applications.
-
-**Tech:** Python • AI • APIs
+**Stack:** Roblox Studio • Lua
 
 ---
 
-# 📊 GitHub Statistics
+### 🤖 Python & AI Experiments
+
+Small experiments exploring Python programming, automation and AI concepts.
+
+**Stack:** Python • AI • APIs
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -163,68 +159,76 @@ Experiments with Python, AI concepts, automation, and interactive applications.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=USERNAME_GITHUB_KAMU&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://streak-stats.demolab.com?user=USERNAME_GITHUB_KAMU&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 GitHub Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB_KAMU&theme=tokyo-night&hide_border=true&radius=16"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB_KAMU&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/USERNAME_GITHUB_KAMU/USERNAME_GITHUB_KAMU/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 🎮 GitHub Arcade
-
-<div align="center">
-
-### 🟢 PAC-MAN CONTRIBUTION GAME
-
-<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph"/>
-
-</div>
-
----
-
-# ⚡ Developer Mindset
+# 🎮 Developer Arcade
 
 <div align="center">
 
 ```text
-             💡 IDEA
-               │
-               ▼
-            🧠 LEARN
-               │
-               ▼
-            💻 BUILD
-               │
-               ▼
-            🐛 DEBUG
-               │
-               ▼
-            🔧 IMPROVE
-               │
-               ▼
-            🚀 DEPLOY
-               │
-               ▼
-             ⭐ REPEAT
+╔══════════════════════════════════════════════╗
+║              🎮 BAYU ARCADE                  ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║       🟦      🟦      🟦      🟦            ║
+║                                              ║
+║          🟡  →  →  →  →  →  🏆             ║
+║                                              ║
+║       🟦      🟦      🟦      🟦            ║
+║                                              ║
+║       CODE YOUR WAY TO THE NEXT LEVEL 🚀     ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+</div>
+
+> 🎮 **Level 01:** Learn
+> 🎮 **Level 02:** Build
+> 🎮 **Level 03:** Debug
+> 🎮 **Level 04:** Deploy
+> 🏆 **Final Boss:** Become a Professional Developer
+
+---
+
+# 🧩 My Development Cycle
+
+<div align="center">
+
+```text
+        💡 IDEA
+           │
+           ▼
+      🧠 LEARN
+           │
+           ▼
+      💻 CODE
+           │
+           ▼
+      🐛 DEBUG
+           │
+           ▼
+      🔧 IMPROVE
+           │
+           ▼
+      🚀 DEPLOY
+           │
+           ▼
+       ⭐ REPEAT
 ```
 
 </div>
@@ -233,16 +237,16 @@ Experiments with Python, AI concepts, automation, and interactive applications.
 
 # 🎯 2026 Goals
 
-* [ ] Become a stronger Web Developer
-* [ ] Build more real-world projects
 * [ ] Improve JavaScript
-* [ ] Master PHP & MySQL
+* [ ] Become better at PHP & MySQL
+* [ ] Build more real-world websites
 * [ ] Improve UI/UX
-* [ ] Learn more about AI
-* [ ] Build useful applications
+* [ ] Learn modern JavaScript frameworks
+* [ ] Explore AI development
+* [ ] Build mobile applications
 * [ ] Create a professional portfolio
 * [ ] Start taking website projects
-* [ ] Contribute more to GitHub
+* [ ] Become more active on GitHub
 
 ---
 
@@ -251,19 +255,19 @@ Experiments with Python, AI concepts, automation, and interactive applications.
 <div align="center">
 
 <a href="https://instagram.com/AlyaaaaCukaMatcha">
-<img src="https://img.shields.io/badge/Instagram-AlyaaaaCukaMatcha-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-AlyaaaaCukaMatcha-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="https://www.tiktok.com/@wiseheisenhower">
-<img src="https://img.shields.io/badge/TikTok-wiseheisenhower-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<img src="https://img.shields.io/badge/TikTok-wiseheisenhower-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
 </a>
 
 <a href="https://x.com/bayu_sugoi">
-<img src="https://img.shields.io/badge/X-bayu__sugoi-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-bayu__sugoi-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 
 <a href="https://www.linkedin.com/in/bayu-syahputra/">
-<img src="https://img.shields.io/badge/LinkedIn-Bayu%20Syahputra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Bayu%20Syahputra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
@@ -276,6 +280,6 @@ Experiments with Python, AI concepts, automation, and interactive applications.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
 
 </div>
