@@ -31,3 +31,25 @@
 │  MISSION   : BUILD • LEARN • IMPROVE        │
 │                                              │
 └──────────────────────────────────────────────┘
+const bayu = {
+    username: "BayuSyahputraaa",
+    role: "Web Developer",
+
+    interests: [
+        "Web Development",
+        "Programming",
+        "Technology",
+        "UI / UX"
+    ],
+
+    currentlyLearning: [
+        "JavaScript",
+        "Frontend Development",
+        "Backend Development",
+        "Database",
+        "Full-Stack Development"
+    ],
+
+    goal: "Become a Professional Web Developer",
+    mindset: "Keep Learning. Keep Building."
+};
