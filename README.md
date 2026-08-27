@@ -1,14 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=BAYU%20SYAHPUTRA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Creative%20Coder&descSize=18&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=BAYU%20SYAHPUTRA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=WEB%20DEVELOPER%20%7C%20CREATIVE%20CODER&descSize=18&descAlignY=58" width="100%"/>
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Bayu+Syahputra+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Building+Modern+Websites+%F0%9F%8C%90;Learning+JavaScript+%26+PHP+%E2%9A%A1;Turning+Ideas+Into+Projects+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Bayu+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Building+Modern+Websites+%F0%9F%8C%90;Learning+JavaScript+%26+PHP+%E2%9A%A1;Exploring+AI+%26+Creative+Coding+%F0%9F%A4%96;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80"/>
 
-<br><br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&style=for-the-badge&label=PROFILE+VIEWS"/>
+<a href="https://github.com/BayuSyahputraaa">
+<img src="https://img.shields.io/badge/GitHub-BayuSyahputraaa-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://instagram.com/AlyaaaaCukaMatcha">
+<img src="https://img.shields.io/badge/Instagram-AlyaaaaCukaMatcha-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@wiseheisenhower">
+<img src="https://img.shields.io/badge/TikTok-wiseheisenhower-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="https://x.com/bayu_sugoi">
+<img src="https://img.shields.io/badge/X-bayu__sugoi-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bayu-syahputra/">
+<img src="https://img.shields.io/badge/LinkedIn-Bayu%20Syahputra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=BayuSyahputraaa&label=PROFILE%20VIEWS&style=for-the-badge"/>
 
 </div>
 
@@ -16,38 +38,13 @@
 
 # 👋 Hey, I'm Bayu
 
-```javascript
-const bayu = {
-    name: "Bayu Syahputra",
-    role: "Web Developer",
-    country: "Indonesia 🇮🇩",
+I'm **Bayu Syahputra**, a student and aspiring **Web Developer** from Indonesia 🇮🇩.
 
-    learning: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "PHP",
-        "MySQL",
-        "Python",
-        "Flutter",
-        "Three.js"
-    ],
+I enjoy building websites, experimenting with programming, learning new technologies, and turning ideas into real projects.
 
-    interestedIn: [
-        "Web Development",
-        "UI/UX",
-        "Creative Coding",
-        "AI",
-        "Cyber Security"
-    ],
+My main focus is **Web Development**, while I'm also exploring mobile development, AI, creative coding, and Cyber Security fundamentals.
 
-    mindset: "Learn → Build → Improve 🚀"
-};
-```
-
-I'm a student and aspiring **Web Developer** who enjoys creating websites, experimenting with programming, and turning ideas into real projects.
-
-My current focus is building a strong foundation in web development while exploring other technologies such as **Python, Flutter, Three.js, AI, and Cyber Security**.
+> 💡 **Learn → Build → Debug → Improve → Repeat**
 
 ---
 
@@ -55,11 +52,11 @@ My current focus is building a strong foundation in web development while explor
 
 <div align="center">
 
-|   🌐 Web   | 🗄️ Backend | 📱 Mobile | 🤖 Exploration |
-| :--------: | :---------: | :-------: | :------------: |
-|    HTML    |     PHP     |  Flutter  |       AI       |
-|     CSS    |    MySQL    |    Dart   |    Three.js    |
-| JavaScript |   Database  |  Android  | Cyber Security |
+|   🌐 Web   | ⚙️ Backend | 📱 Mobile | 🤖 Exploration |
+| :--------: | :--------: | :-------: | :------------: |
+|    HTML    |     PHP    |  Flutter  |       AI       |
+|     CSS    |    MySQL   |    Dart   |    Three.js    |
+| JavaScript |    CRUD    |  Android  | Cyber Security |
 
 </div>
 
@@ -69,109 +66,117 @@ My current focus is building a strong foundation in web development while explor
 
 ### 🌐 Web Development
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql"/>
 </p>
 
 ### 🐍 Programming
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,cs,dart"/>
 </p>
 
-### 🎨 UI & Creative Development
+### 🎨 Creative Development
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=threejs,figma,bootstrap,tailwind"/>
+</p>
+
+### 📱 Mobile Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio"/>
 </p>
 
 ### 🛠️ Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,vercel"/>
 </p>
 
 ---
 
-# 🚀 What I Build
+# 🚀 What I Like Building
 
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   🌐 Modern Websites                        │
-│   🎨 Interactive Interfaces                 │
-│   ⚡ Landing Pages                          │
-│   🗄️ Database Applications                  │
-│   📱 Mobile Applications                    │
-│   🎮 Small Games & Experiments              │
-│   🤖 AI Experiments                         │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+<div align="center">
+
+🌐 **Modern Websites**
+
+🎨 **Creative User Interfaces**
+
+⚡ **Interactive Web Experiences**
+
+🗄️ **Database Applications**
+
+📱 **Mobile Applications**
+
+🎮 **Small Games & Experiments**
+
+🤖 **AI Experiments**
+
+</div>
 
 ---
 
 # ⭐ Featured Projects
 
-### 🌐 Portfolio Website
+<table>
+<tr>
 
-A personal portfolio website for showcasing my skills, projects and development journey.
+<td width="50%">
 
-**Stack:** HTML • CSS • JavaScript
+## 🌐 Personal Portfolio
 
----
+A modern portfolio website for showcasing my skills, projects, and development journey.
 
-### 🏫 School Web Projects
+**Stack**
 
-Various websites and applications created for school projects and learning purposes.
+`HTML` `CSS` `JavaScript`
 
-**Stack:** HTML • CSS • JavaScript • PHP • MySQL
+</td>
 
----
+<td width="50%">
 
-### 🎮 Chill Club
+## 🏫 School Web Projects
 
-A Roblox social game concept designed around a relaxed virtual environment for players to hang out and chat.
+Websites and applications created for school assignments and digital projects.
 
-**Stack:** Roblox Studio • Lua
+**Stack**
 
----
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
-### 🤖 Python & AI Experiments
+</td>
 
-Small experiments exploring Python programming, automation and AI concepts.
+</tr>
 
-**Stack:** Python • AI • APIs
+<tr>
 
----
+<td width="50%">
 
-# 📊 GitHub Stats
+## 🎮 Chill Club
 
-<div align="center">
+A Roblox social game concept focused on creating a relaxed virtual environment where players can hang out and chat.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+**Stack**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight&hide_border=true"/>
+`Roblox Studio` `Lua`
 
-</div>
+</td>
 
-<br>
+<td width="50%">
 
-<div align="center">
+## 🤖 AI Experiments
 
-<img src="https://streak-stats.demolab.com?user=USERNAME_GITHUB_KAMU&theme=tokyonight&hide_border=true"/>
+Small experiments exploring Python programming, AI concepts, automation, and interactive applications.
 
-</div>
+**Stack**
 
----
+`Python` `AI` `APIs`
 
-# 📈 Contribution Activity
+</td>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB_KAMU&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
+</tr>
+</table>
 
 ---
 
@@ -180,28 +185,32 @@ Small experiments exploring Python programming, automation and AI concepts.
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════╗
-║              🎮 BAYU ARCADE                  ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║       🟦      🟦      🟦      🟦            ║
-║                                              ║
-║          🟡  →  →  →  →  →  🏆             ║
-║                                              ║
-║       🟦      🟦      🟦      🟦            ║
-║                                              ║
-║       CODE YOUR WAY TO THE NEXT LEVEL 🚀     ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║                 🎮 BAYU ARCADE                  ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║    🟦   🟦   🟦   🟦   🟦   🟦   🟦             ║
+║                                                  ║
+║       🟡  →  →  →  →  →  →  →  🏆              ║
+║                                                  ║
+║    🟦   🟦   🟦   🟦   🟦   🟦   🟦             ║
+║                                                  ║
+║           LEVEL UP YOUR SKILLS 🚀               ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 ```
 
-</div>
+### 🕹️ CURRENT LEVEL
 
-> 🎮 **Level 01:** Learn
-> 🎮 **Level 02:** Build
-> 🎮 **Level 03:** Debug
-> 🎮 **Level 04:** Deploy
-> 🏆 **Final Boss:** Become a Professional Developer
+**Web Development**
+
+`[████████████████░░░░]`
+
+### 🎯 CURRENT MISSION
+
+**Build → Learn → Debug → Improve → Deploy**
+
+</div>
 
 ---
 
@@ -210,26 +219,77 @@ Small experiments exploring Python programming, automation and AI concepts.
 <div align="center">
 
 ```text
-        💡 IDEA
-           │
-           ▼
-      🧠 LEARN
-           │
-           ▼
-      💻 CODE
-           │
-           ▼
-      🐛 DEBUG
-           │
-           ▼
-      🔧 IMPROVE
-           │
-           ▼
-      🚀 DEPLOY
-           │
-           ▼
-       ⭐ REPEAT
+                    💡 IDEA
+                      │
+                      ▼
+                 🧠 LEARN
+                      │
+                      ▼
+                 💻 BUILD
+                      │
+                      ▼
+                 🐛 DEBUG
+                      │
+                      ▼
+                🔧 IMPROVE
+                      │
+                      ▼
+                 🚀 DEPLOY
+                      │
+                      ▼
+                    ⭐
+                   REPEAT
 ```
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BayuSyahputraaa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayuSyahputraaa&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=BayuSyahputraaa&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BayuSyahputraaa&theme=tokyo-night&hide_border=true&area=true&radius=12" width="95%"/>
+
+</div>
+
+---
+
+# 🧠 Developer Mindset
+
+<div align="center">
+
+### 💡 I don't need to know everything.
+
+### I just need to keep learning.
+
+<br/>
+
+🧠 Learn something new
+↓
+💻 Build something
+↓
+🐛 Make mistakes
+↓
+🔧 Fix them
+↓
+🚀 Make it better
 
 </div>
 
@@ -237,10 +297,11 @@ Small experiments exploring Python programming, automation and AI concepts.
 
 # 🎯 2026 Goals
 
+* [ ] Become a stronger Web Developer
 * [ ] Improve JavaScript
-* [ ] Become better at PHP & MySQL
+* [ ] Improve PHP & MySQL
 * [ ] Build more real-world websites
-* [ ] Improve UI/UX
+* [ ] Improve UI/UX skills
 * [ ] Learn modern JavaScript frameworks
 * [ ] Explore AI development
 * [ ] Build mobile applications
@@ -276,10 +337,10 @@ Small experiments exploring Python programming, automation and AI concepts.
 
 <div align="center">
 
-### 💻 Code. Create. Learn. Repeat.
+### 💻 CODE • CREATE • LEARN • REPEAT
 
-<br>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer"/>
 
 </div>
