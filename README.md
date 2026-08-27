@@ -42,10 +42,12 @@
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```javascript
+## `> about_me`
+
+```javascript
 const bayu = {
     name: "Bayu Syahputra",
     username: "BayuSyahputraaa",
-
     role: "Web Developer",
 
     interests: [
@@ -64,9 +66,31 @@ const bayu = {
     ],
 
     goal: "Become a Professional Web Developer",
-
     mindset: "Keep Learning. Keep Building."
 };
+```
+
+> 💻 Building websites
+> ⚡ Learning new technologies
+> 🚀 Turning ideas into projects
+> 🧠 Improving my programming skills
+
+---
+
+### `> current_status`
+
+```text
+[+] Web Development      : ACTIVE
+[+] JavaScript            : LEARNING
+[+] Frontend              : LEARNING
+[+] Backend               : LEARNING
+[+] Database              : LEARNING
+[+] Full-Stack            : LOADING...
+
+STATUS  : ONLINE
+MISSION : BUILD • LEARN • IMPROVE
+```
+
 ```
 
 <br clear="right"/>
